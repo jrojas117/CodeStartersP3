@@ -1,1 +1,1 @@
-FLASK_APP=CodestartersP3-master/app.py flask run
+FLASK_APP=app.py flask run
